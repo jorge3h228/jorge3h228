@@ -10,8 +10,10 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jorge3h228&theme=transparent&bg_color=000&border_color=64d22d&show_icons=true&icon_color=64d22d&title_color=64d22d&text_color=FFF)
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jorge3h228&theme=tokyonight&bg_color=000&border_color=64d22d&show_icons=true&icon_color=64d22d&title_color=64d22d&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge3h228&layout=compact&theme=tokyonight&bg_color=000&border_color=64d22d&title_color=64d22d&text_color=FFF)
 
 
 
