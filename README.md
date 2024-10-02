@@ -5,10 +5,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-henrique-bernardes-martins-70a530153/)
 
 ## Habilidades
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3)
-![C++](https://img.shields.io/badge/-C%2B%2B-000?style=for-the-badge&logo=c%2B%2B)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jorgin-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jorgin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jorgin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jorge3h228&theme=calm&bg_color=000&border_color=64d22d&show_icons=true&icon_color=64d22d&title_color=64d22d&text_color=FFF)
