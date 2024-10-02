@@ -11,9 +11,8 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jorge3h228&theme=tokyonight&bg_color=000&border_color=64d22d&show_icons=true&icon_color=64d22d&title_color=64d22d&text_color=FFF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge3h228&layout=compact&theme=tokyonight&bg_color=000&border_color=64d22d&title_color=64d22d&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jorge3h228&theme=calm&bg_color=000&border_color=64d22d&show_icons=true&icon_color=64d22d&title_color=64d22d&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge3h228&layout=compact&theme=calm&bg_color=000&border_color=64d22d&title_color=64d22d&text_color=FFF)
 
 
 
