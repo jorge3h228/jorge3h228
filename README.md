@@ -1,7 +1,7 @@
 # Jorge3h228
 
 ## Conecte-se comigo
-[![Instagram](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/martinstech07/)
+[![Instagram](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/jorge_henriquebm2/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-henrique-bernardes-martins-70a530153/)
 
 ## Habilidades
